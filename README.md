@@ -15,11 +15,6 @@ No fluff, just encrypted, efficient, Gen Z-grade password management. 😎
 - Flask / React / SQLite / (whatever else is in the project)
 - Love, caffeine, and shadowy vibes
 
-## 📦 Installation
-
-    ```bash
-git clone https://github.com/TheRealShadowX/ShadowPass.git
-cd ShadowPass
 # instructions to run the app
 🧪 Usage
 - Launch the app
