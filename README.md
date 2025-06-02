@@ -24,5 +24,6 @@ No fluff, just encrypted, efficient, Gen Z-grade password management. 😎
   ## A PROVE THAT MY CODE IS WORKING
   
 ![screenshot]
-<img.src='![Screenshot 2025-06-02 101329](https://github.com/user-attachments/assets/67f66b11-4e97-4b06-bfdd-1de3dc80d23e)
-'/img>
+![Screenshot 2025-06-02 114540](https://github.com/user-attachments/assets/d648f928-aa93-4924-b5dc-d7a3b3d35c65)
+![Screenshot 2025-06-02 114640](https://github.com/user-attachments/assets/fa174963-fb83-4163-b157-982fdfc3f74d)
+
